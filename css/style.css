@@ -15642,6 +15642,7 @@ Section Title
             order: 3;
     text-align: center;
     margin-top: 30px;
+	  margin-bottom:30px;
   }
 }
 .footer-bottom .copyright-text a {
