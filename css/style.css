@@ -20772,3 +20772,44 @@ Sidebar
   right: 2rem;
   padding: .5rem 2rem .5rem .75rem;
 }
+
+
+
+
+
+
+
+.whatsapp-button{
+  font-family: 'Open Sans';
+  text-decoration: none;
+  position: fixed;
+  z-index: 99;
+  top: 50%;
+  right: 30px;
+  background-color: #E6BD1B;
+  transform: rotate(270deg) translateY(190%);
+  color: rgba(255,255,255,.8);
+  transition: all .3s ease;
+height: 50px;
+    line-height: 40px;
+    width: 160px;
+  text-align: center;
+  font-size: 14px;
+  box-shadow: 0 14px 28px rgba(0,0,0,.2), 0 10px 10px rgba(0,0,0,.2);
+}
+.whatsapp-button:hover{
+  color: #fff;
+  text-decoration: none
+}
+.whatsapp-button i{
+  display: inline-block;
+  margin-right: 5px;
+  font-size: 18px;
+  color: #fff
+}
+
+.white{
+  color: #ffff;
+  font-size: 17px;
+    font-weight: 700;
+}
